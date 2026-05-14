@@ -1,0 +1,21 @@
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+frontend/build/
+frontend/.env*.local
+
+# Python / FastAPI
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+backend/nutripulse.db
+
+# Secrets
+backend/.env
+.env
+
+# OS
+.DS_Store
+Thumbs.db

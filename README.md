@@ -35,7 +35,8 @@ Next.js (App Router)
 · Framer Motion 
 · Recharts · Zustand 
 · React Hook Form + Zod 
-· Axios · Lucide React 
+· Axios 
+· Lucide React 
 · jsPDF
 
 ### Backend
